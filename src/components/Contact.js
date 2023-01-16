@@ -28,7 +28,7 @@ export default function Contact() {
     <section id="contact" className="relative">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-1/2 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-          <img src="./dalle.jpg"></img>
+          <img src="./dalle.jpg" alt=""></img>
         </div>
         <form
           netlify
