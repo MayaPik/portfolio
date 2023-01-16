@@ -19,7 +19,7 @@ export default function Open() {
               My Github
             </a>
             <a
-              href=""
+              href="https://docs.google.com/document/d/1D4xru0n_8xjD7tgf2M8llR2JvSQOfMxIuP__wp0P8SI/edit?usp=sharing"
               className="ml-4 inline-flex text-purple-200 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
               My Resume
