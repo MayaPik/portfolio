@@ -15,6 +15,14 @@ export const projects = [
     image: "https://media.giphy.com/media/eSjjpSKRouJna6QugG/giphy.gif",
     link: "https://disney-avg-waiting-times.herokuapp.com/avg",
   },
+  {
+    title: "Weather App",
+    subtitle: "React and MUI",
+    description:
+      "A simple weather app that lets you save favorites and get the current location and the location for the next five days.",
+    image: "https://media.giphy.com/media/IPZ1mCyRlyj1GWbfKO/giphy.gif",
+    link: "https://mayaweatherapp.netlify.app/",
+  },
 ];
 
 export const skills = [
