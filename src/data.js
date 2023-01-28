@@ -23,6 +23,14 @@ export const projects = [
     image: "https://media.giphy.com/media/IPZ1mCyRlyj1GWbfKO/giphy.gif",
     link: "https://mayaweatherapp.netlify.app/",
   },
+  {
+    title: "Our Shop",
+    subtitle: "React and MUI",
+    description:
+      "A simple shopping app that lets you buy clothes from fake-api-store",
+    image: "https://media.giphy.com/media/rnQIHCDrrtCsVbMGII/giphy.gif",
+    link: "https://mayostore.netlify.app/",
+  },
 ];
 
 export const skills = [
